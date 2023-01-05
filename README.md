@@ -1,6 +1,6 @@
 # ConvertibleBondsPrice
 
-根據昆x同學描述，可轉債價格為
+根據昆明同學描述，可轉債價格為
 
 $CB_t=e^{-r(T-t)}F+qS_tN(d_1)-Fe^{-r(T-t)}N(d_2)$
 
