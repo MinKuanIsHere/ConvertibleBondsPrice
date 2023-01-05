@@ -17,8 +17,3 @@ $d_2=\frac{\ln(\frac{qS_t}{F})+(r-\frac{1}{2}\sigma^2)(T-t)}{\sigma\sqrt{T-t}}=d
 | 28886.csv     | 證券櫃檯買賣中心     | https://www.tpex.org.tw/web/bond/bonds_info/cbq/NewCB_day_qry.php?l=zh-tw |
 |新光金五可轉債資訊|thefew| https://thefew.tw/quote/28886 |
 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
